@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ### [Stellar](https://github.com/orphic-inc/stellar-api)
 
-### [Code Noobs](https://cn.korin.wiki)
 [my .zshrc](https://gist.github.com/obrien-k/1bb4a1bfb8c4d8a703a7f17b847bf362)
 
 ## Noter
