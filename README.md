@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-🌐 <a href="https://kaikuro.com">kyleobrien.me</a>
+🌐 <a href="https://kyleobrien.me">kyleobrien.me</a>
 
 💬 Ask me about GraphQL, Apollo GraphQL, BigCommerce, Node.JS
 
